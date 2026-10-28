@@ -1,7 +1,7 @@
 # Exp-1 ATM & BANKING SYSTEM
 
-NAME : ASIN BANU A
-REGISTER NO : 212225040035
+## NAME : ASIN BANU A
+## REGISTER NO : 212225040035
 
 # AIM:
 To create ATM System software that will meet the needs of the applicant and help them to withdraw money,deposit.
